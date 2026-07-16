@@ -1,4 +1,4 @@
-# Anna's Test Program | Third Program Test Program | 7/16/26
+# Anna's Test Program | Third Test Program | 7/16/26
 Being young and getting into investing, the best way I thought of sticking to my goals was being able to see continuous progress. So, I made a program to visualize my stock portfolio so I can see the gains I make week-to-week; additionally, I enjoyed having custom colors for my portfolio and I have plans to add more features soon.
 
 # Python Stock Portfolio Tracker
